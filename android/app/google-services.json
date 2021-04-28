@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198982317368",
+    "project_id": "rnssol",
+    "storage_bucket": "rnssol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198982317368:android:f934b8c90a6575a9c77dcd",
+        "android_client_info": {
+          "package_name": "com.onetenlogics.rnstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198982317368-1pjsmmfo9pdon5dqbi9t1s15o6anhr8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onetenlogics.rnstask",
+            "certificate_hash": "aba243f6fdf6000ab722627a04eb1a6999ac8976"
+          }
+        },
+        {
+          "client_id": "198982317368-rvmrdqcd0qj0bbme01ni3edg40ur6l3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnMPBJhi8k89iNXyaQsLru63sUr9ZET0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198982317368-rvmrdqcd0qj0bbme01ni3edg40ur6l3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
